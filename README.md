@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi, I’m **Chang Zou**. I am currently an undergraduate at [**Yingcai Honors College, UESTC**](https://www.yingcai.uestc.edu.cn/), where I will receive my B.Sc. in Artificial Intelligence in June 2026. Following my graduation, I will begin my Ph.D. journey in September 2026 at the **School of AI, Shanghai Jiao Tong University (SJTU)**, under the supervision of [**Prof. Linfeng Zhang**](https://www.zhanglinfeng.tech).
+Hi, **Chang Zou** here! I am currently an undergraduate at [**Yingcai Honors College, UESTC**](https://www.yingcai.uestc.edu.cn/), where I will receive my B.Sc. in Artificial Intelligence in June 2026. Following my graduation, I will begin my Ph.D. journey in September 2026 at the **School of AI, Shanghai Jiao Tong University (SJTU)**, under the supervision of [**Prof. Linfeng Zhang**](https://www.zhanglinfeng.tech).
 
 My research primarily focuses on **Precise and Efficient AIGC**. From 2024 to 2026, my work centered on inference acceleration for diffusion models, where I achieved significant milestones in speeding up image and video generation (you may recognize my work through the [**TaylorSeer**](https://github.com/Shenyi-Z/TaylorSeer) project). Since 2026, I have expanded my exploration into **agentic video generation, world models, and unified native multi-modal LLMs** that bridge generation and understanding.
 
@@ -25,6 +25,3 @@ I am always eager to connect, feel free to reach out!
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shenyi-z&show_icons=true&theme=transparent)
-
-[![trophy-Dark](https://github-profile-trophy-cyyin.vercel.app/?username=shenyi-z&theme=nord&title=-Reviews&column=4&margin-w=15&margin-h=15&no-frame=true&no-bg=true#gh-dark-mode-only)](https://github.com/ryo-ma/github-profile-trophy#gh-dark-mode-only)
-[![trophy-Light](https://github-profile-trophy-cyyin.vercel.app/?username=shenyi-z&theme=flat&title=-Reviews&column=4&margin-w=15&margin-h=15&no-frame=true&no-bg=true#gh-light-mode-only)](https://github.com/ryo-ma/github-profile-trophy#gh-light-mode-only)
