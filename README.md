@@ -19,9 +19,11 @@ Hi, **Chang Zou** here! I am currently an undergraduate at [**Yingcai Honors Col
 
 My research primarily focuses on **Precise and Efficient AIGC**. From 2024 to 2026, my work centered on inference acceleration for diffusion models, where I achieved significant milestones in speeding up image and video generation (you may recognize my work through the [**TaylorSeer**](https://github.com/Shenyi-Z/TaylorSeer) project). Since 2026, I have expanded my exploration into **agentic video generation, world models, and unified native multi-modal LLMs** that bridge generation and understanding.
 
-I maintain a critical yet open-minded attitude toward academic research and discussions.
+I maintain a critical yet open-minded attitude toward academic research and discussions, feel free to reach out!
 
-I am always eager to connect, feel free to reach out!
-
+Besides，I am currently **seeking internship opportunities** in related fields and welcome any inquiries.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shenyi-z&show_icons=true&theme=transparent)
+
+Personal pages:[https://shenyi-z.github.io](https://shenyi-z.github.io/)
+Google Scholar:[Chang Zou](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=yWm0cJsAAAAJ)
