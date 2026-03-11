@@ -21,7 +21,7 @@ My research primarily focuses on **Precise and Efficient AIGC**. From 2024 to 20
 
 I maintain a critical yet open-minded attitude toward academic research and discussions, feel free to reach out!
 
-Besides，I am currently **seeking internship opportunities** in related fields and welcome any inquiries.
+BTW，I am currently **seeking internship opportunities** in related fields and welcome any inquiries.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shenyi-z&show_icons=true&theme=transparent)
 
