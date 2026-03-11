@@ -26,4 +26,5 @@ I am always eager to connect, feel free to reach out!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shenyi-z&show_icons=true&theme=transparent)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=shenyi-z&theme=transparent)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy-Dark](https://github-profile-trophy-cyyin.vercel.app/?username=shenyi-z&theme=nord&title=-Reviews&column=4&margin-w=15&margin-h=15&no-frame=true&no-bg=true#gh-dark-mode-only)](https://github.com/ryo-ma/github-profile-trophy#gh-dark-mode-only)
+[![trophy-Light](https://github-profile-trophy-cyyin.vercel.app/?username=shenyi-z&theme=flat&title=-Reviews&column=4&margin-w=15&margin-h=15&no-frame=true&no-bg=true#gh-light-mode-only)](https://github.com/ryo-ma/github-profile-trophy#gh-light-mode-only)
